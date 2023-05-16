@@ -1,3 +1,3 @@
-# assignment-2023-1
+# assignment-2023-2
 
-First assignment for the 2023 course. The assignment can be found [here](https://github.com/dmst-algorithms-course/assignment-2023-2/blob/main/assignment-2023-2.pdf).
+Second assignment for the 2023 course. The assignment can be found [here](https://github.com/dmst-algorithms-course/assignment-2023-2/blob/main/assignment-2023-2.pdf).
